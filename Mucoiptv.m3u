@@ -10,7 +10,7 @@ http://89.187.191.41/ATV-HD-TR/video.m3u8
 http://89.187.191.41/Kanal-D-HD-TR/video.m3u8
 
 #EXTINF:-1,STAR TV
-http://116.202.238.88/STARTV_TR/index.m3u8
+https://dogus-live.daioncdn.net/startv/startv_480p.m3u8
 
 #EXTINF:-1,SHOW TV
 http://116.202.238.88/SHOWTV_TR/index.m3u8
