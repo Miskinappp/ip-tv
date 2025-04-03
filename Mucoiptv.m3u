@@ -119,8 +119,6 @@ http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6877/index.m3u8
 http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6878/index.m3u8
 #EXTINF:-1 tvg-logo="tv logo" group-title="⚡Sinevizyon",beIN Movies Premiere 2 
 http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6879/index.m3u8
-#EXTINF:-1 tvg-id="73" tvg-logo="" tvg-name="Cine6 Max" group-title="⚡Sinevizyon",Cine6 Max HD
-https://canli.cinemax6.com:3220/stream/play.m3u8
 https://ip100.radyotelekomtv.com:3220/stream/play.m3u8
 #EXTINF:-1 tvg-logo="tv logo" group-title="⚡Sinevizyon",Cine6
 https://canli.cine6tv.com.tr:3614/stream/play.m3u8
