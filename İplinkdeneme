@@ -1,4 +1,25 @@
 #EXTM3U
+
+#EXTINF:-1,Bein Sport 1
+http://188.95.65.168:25461/454543/4534543/2463
+#EXTINF:-1,bein1-1080p
+http://188.95.65.168:25461/454543/4534543/2476
+#EXTINF:-1,Bein 1 4K
+http://188.95.65.168:25461/454543/4534543/2474
+#EXTINF:-1,Bein Sport 2
+http://188.95.65.168:25461/454543/4534543/2464
+#EXTINF:-1,Bein Sport 3
+http://188.95.65.168:25461/454543/4534543/2465
+#EXTINF:-1,Bein Sport 4
+http://188.95.65.168:25461/454543/4534543/2466
+#EXTINF:-1,Bein Sport 5
+http://188.95.65.168:25461/454543/4534543/2467
+#EXTINF:-1,Bein Sport Max 1
+http://188.95.65.168:25461/454543/4534543/2468
+#EXTINF:-1,Bein Sport Max 2
+http://188.95.65.168:25461/454543/4534543/2469
+#EXTINF:-1,Bein-1-Yedek
+http://188.95.65.168:25461/454543/4534543/2478
 #EXTINF:-1 tvg-id="----- (TR) SPOR KANALLARI-----" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TURKIYE_LOGO_SD.png" group-title="TR | SPOR", ----- (TR) SPOR KANALLARI-----
 #EXTINF:-1 tvg-name="TRT Spor" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_TRT" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/13687983.png" group-title="Spor",TRT Spor
 https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
