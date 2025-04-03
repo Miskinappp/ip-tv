@@ -3,6 +3,9 @@
 #EXTINF:-1, BEIN SPORT 1
 http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6781/index.m3u8
 
+#EXTINF:-1, Dizi Film TV
+http://stream.tvcdn.net/eglence/dizi-film-tv.m3u8
+
 #EXTINF:-1,TRT 1
 http://89.187.191.41/TRT-1-HD-TR/video.m3u8
 
