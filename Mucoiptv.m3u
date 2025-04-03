@@ -157,3 +157,18 @@ http://stream.tvcdn.net/yerel/5-ocak-tv.m3u8
 #EXTINF:-1 tvg-logo="tv logo" group-title="⚡Sinevizyon",Lebih Tv
 https://ip100.radyotelekomtv.com:3982/stream/play.m3u8
 #EXTINF:-1 tvg-logo="tv logo" group-title="⚡Sinevizyon",
+#EXTINF:-1 group-title="⚡7/24 Yerli Film",Pazarcık Tv
+#EXTGRP:⚡ 7/24 Yerli Film
+https://pazarciktv.ozelip.net:3962/hybrid/play.m3u8
+#EXTINF:-1 group-title="⚡7/24 Yerli Film",Suduragı Tv
+#EXTGRP:⚡ 7/24 Yerli Film
+http://stream.tvcdn.net/diger-eglence/suduragi-tv.m3u8
+#EXTINF:-1 group-title="⚡7/24 Yerli Film",Önde Tv Karadeniz
+#EXTGRP:⚡ 7/24 Yerli Film
+ https://ondetv.ozelip.com.tr:3390/hybrid/play.m3u8
+#EXTINF:-1 group-title="⚡7/24 Yerli Film",Hoçvan Tv
+#EXTGRP:⚡ 7/24 Yerli Film
+https://ip100.radyotelekomtv.com:3593/stream/play.m3u8
+#EXTINF:-1 group-title="⚡7/24 Yerli Film", Amedia Tv
+#EXTGRP:⚡ 7/24 Yerli Film
+https://a8.radyotelekom.com.tr:3427/stream/play.m3u8 
