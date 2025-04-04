@@ -255,3 +255,46 @@ http://38620.tx8.org:80/FthAli60/17xp5b5t9z/132665
 http://38620.tx8.org:80/FthAli60/17xp5b5t9z/13039
 #EXTINF:-1,TR: SINEMA TV 1002
 http://38620.tx8.org:80/FthAli60/17xp5b5t9z/81578
+#EXTINF:-1 tvg-name="beIN Movies Premiere" tvg-id="TR: beIN Movies Premiere" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-movies-premiere-hd-tr.png" group-title="Sinema",beIN Movies Premiere
+http://ekosupport.xyz:80/live/uayoglu39/KfVL4Vdj66/53.ts.m3u8
+#EXTINF:-1 tvg-name="beIN Movies Premiere 2" tvg-id="TR: beIN Movies Premiere 2" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-movies-premiere-2-hd-tr.png" group-title="Sinema",beIN Movies Premiere 2
+http://ekosupport.xyz:80/live/uayoglu39/KfVL4Vdj66/54.ts.m3u8
+#EXTINF:-1 tvg-name="beIN Movies Stars" tvg-id="TR: beIN Movies Stars" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-movies-stars-hd-tr.png" group-title="Sinema",beIN Movies Stars
+http://ekosupport.xyz:80/live/uayoglu39/KfVL4Vdj66/57.ts.m3u8
+#EXTINF:-1 tvg-name="beIN Movies Turk" tvg-id="TR: beIN Movies Turk" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-movies-turk-hd-tr.png" group-title="Sinema",beIN Movies Turk
+http://ekosupport.xyz:80/live/uayoglu39/KfVL4Vdj66/59.ts.m3u8
+#EXTINF:-1 tvg-name="beIN Series 1" tvg-id="TR: beIN Series 1" tvg-logo="https://media0070.elcinema.com/tvguide/1327_1.png" group-title="Sinema",beIN Series 1
+http://ekosupport.xyz:80/live/uayoglu39/KfVL4Vdj66/55.ts.m3u8
+#EXTINF:-1 tvg-name="TR: beIN Series 2" tvg-id="TR: beIN Series 2" tvg-logo="https://media0070.elcinema.com/tvguide/1328_1.png" group-title="Sinema",TR: beIN Series 2
+http://ekosupport.xyz:80/live/uayoglu39/KfVL4Vdj66/56.ts.m3u8
+#EXTINF:-1 tvg-name="beIN Series 3" tvg-id="TR: beIN Series 3" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-series-3-logo.png?rkt=DfS6Tgv6Hjr93k3" group-title="Sinema",beIN Series 3
+http://ekosupport.xyz:80/live/uayoglu39/KfVL4Vdj66/60.ts.m3u8
+#EXTINF:-1 tvg-name="TR: beIN Series 4" tvg-id="TR: beIN Series 4" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-series-4-logo.png?rkt=DfS6Tgv6Hjr93k3" group-title="Sinema",TR: beIN Series 4
+http://ekosupport.xyz:80/live/uayoglu39/KfVL4Vdj66/21975.ts.m3u8
+#EXTINF:-1 tvg-name="Cine 1" tvg-id="Cine1 Tv.tr" tvg-logo="https://pbs.twimg.com/profile_images/1859948416903593984/-3arVFel_400x400.jpg" group-title="Sinema",Cine 1
+https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
+#EXTINF:-1 tvg-name="Cine 6 Max" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa349qbG-ASQsVz0tZL17kGD-v8jqdPqebgA&s" group-title="Sinema",Cine 6 Max
+https://ip100.radyotelekomtv.com:3220/stream/play.m3u8
+#EXTINF:-1 tvg-name="Moviesmart Türk" tvg-id="MovieSmart Turk.tr" tvg-logo="https://www.yuksekovaguncel.com.tr/images/haberler/d_smartin_hd_kanal_sayisi_artiyor_h55683.jpg" group-title="Sinema",Moviesmart Türk
+http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1780
+#EXTINF:-1 tvg-name="Moviesmart Classic" tvg-id="MovieSmart Classic.tr" tvg-logo="https://tvprofil.com/img/kanali-logo/moviesmart_classic_logo.png?1612448825" group-title="Sinema",Moviesmart Classic
+http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1773
+#EXTINF:-1 tvg-name="DiziSmart Max" tvg-id="Dizi Smart Max.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4IhZRfQuL2kxgqAd56wDwZMvRwHvvMA9CrQ&s" group-title="Sinema",DiziSmart Max
+http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/32147
+#EXTINF:-1 tvg-name="TR: DiziSmart Premium" tvg-id="Dizi Smart Premium.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Logo_of_DiziSmart_Premium_HD.png" group-title="Sinema",TR: DiziSmart Premium
+http://ekosupport.xyz:80/live/uayoglu39/KfVL4Vdj66/185.ts.m3u8
+#EXTINF:-1 tvg-name="TR | ENO Vizyon 01ⓧ FHD" tvg-id="TR | ENO Vizyon 01ⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/3a2500979310fa089c38362dc871e3b5.png" group-title="Sinema",TR | ENO Vizyon 01ⓧ FHD
+http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432286
+#EXTINF:-1 tvg-name="Sinema 2" tvg-id="Sinema Tv 2.tr" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/sinema-tv2-tr.png" group-title="Sinema",Sinema 2
+http://aybytv.xyz:8080/nuran01/nuran01/123920
+#EXTINF:-1 tvg-name="Sinema Aile" tvg-id="Sinema Tv Aile.tr" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/sinema-aile-tr.png" group-title="Sinema",Sinema Aile
+http://ekosupport.xyz:80/live/uayoglu39/KfVL4Vdj66/208.ts.m3u8
+#EXTINF:-1 tvg-name="Sinema Aksiyon" tvg-id="Sinema Tv Aksiyon.tr" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/sinema-aksiyon-tr.png" group-title="Sinema",Sinema Aksiyon
+http://ekosupport.xyz:80/live/uayoglu39/KfVL4Vdj66/90.ts.m3u8
+#EXTINF:-1 tvg-name="Sinema Komedi" tvg-id="Sinema Tv Comedy.tr" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/sinema-komedi-tr.png" group-title="Sinema",Sinema Komedi
+http://ekosupport.xyz:80/live/uayoglu39/KfVL4Vdj66/106.ts.m3u8
+#EXTINF:-1 tvg-name="Sinema TV" tvg-id="Sinema Tv.tr" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/sinema-tv-tr.png" group-title="Sinema",Sinema TV
+http://ekosupport.xyz:80/live/uayoglu39/KfVL4Vdj66/82.ts.m3u8
+#EXTINF:-1 tvg-name="Kanal 10" tvg-id="" tvg-logo="tv logo" group-title="Sinema",Kanal 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/214750.m3u8? # https://cdn01.mylive.in.th/tc1/live/161760/161760-360p.m3u8
