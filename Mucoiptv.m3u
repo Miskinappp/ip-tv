@@ -1,6 +1,9 @@
 #EXTM3U
+#EXTINF:-1,DIZI: deneme1
+https://youtu.be/UgKxh04Iv9o
 
-
+#EXTINF:-1,DIZI: deneme2
+https://www.youtube.com/embed/UgKxh04Iv9o
 
 #EXTINF:-1,DIZI: SAHIPSIZLER
 http://38620.tx8.org:80/movie/FthAli60/17xp5b5t9z/152891.mkv
