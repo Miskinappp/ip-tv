@@ -104,6 +104,9 @@ https://livetv.powerapp.com.tr/powerTV/powerhd.smil/
 #EXTINF:-1 group-title="Spor"tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png",BEIN SPORT 1
 http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6781/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein1.png" group-title="Alternatif1", Bein-sports-1
+#EXTVLCOPT:http-referrer=https://www.xyzsports218.xyz/
+https://alpha.cf-worker-c4d6a2ea181de1b9.workers.dev/live/bein-sports-1/playlist.m3u8
 
 #EXTINF:-1,BEIN 1 SD (480P) (1)
 https://vavoo.to/play/2919229346/index.m3u8
