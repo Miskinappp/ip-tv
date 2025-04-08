@@ -33,6 +33,9 @@ http://89.187.191.41/TV8-HD-TR/video.m3u8
 https://b.fulltvizle.com/fox/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ULUSAL"tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png",NOW ydk
 http://116.202.238.88/FOXTV_TR/index.m3u8
+#EXTINF:-1 group-title="ULUSAL"tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png",NOW ydk1
+http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/2309/index.m3u8
+
 
 #EXTINF:-1 group-title="ÇOCUK"tvg-logo="https://i.ibb.co/qDF8pHQ/tdcc.png",TRT Çocuk
 http://116.202.238.88/TRTCOCUK_TR/index.m3u8
