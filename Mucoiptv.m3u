@@ -11,10 +11,11 @@ http://38620.tx8.org:80/movie/FthAli60/17xp5b5t9z/152891.mkv
 http://38620.tx8.org:80/movie/FthAli60/17xp5b5t9z/105047.mkv
 #EXTINF:-1,DIZI: KRAL KAYBEDERSE
 http://38620.tx8.org:80/movie/FthAli60/17xp5b5t9z/164943.mkv
+
+
 #EXTINF:-1 group-title="DİZİ/FİLM"tvg-logo="http://assets.tvcdn.net/2b0e5b6e-3c75-4d34-b392-90330b629bbb.png",Dizi Film TV
 http://stream.tvcdn.net/eglence/dizi-film-tv.m3u8
-#EXTINF:-1,Kral Kaybederse S01 E08
-http://c1.nov72.win:8080/series/oznctn62x/768512/231978.mkv
+
 #EXTINF:-1 group-title="ULUSAL"tvg-logo="https://i.ibb.co/d6c87Km/trt122.png",TRT 1
 http://89.187.191.41/TRT-1-HD-TR/video.m3u8
 #EXTINF:-1 group-title="ULUSAL"tvg-logo="https://i.ibb.co/n1SCYqN/atv.png",ATV
