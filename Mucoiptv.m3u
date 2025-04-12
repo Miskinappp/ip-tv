@@ -109,45 +109,22 @@ https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b5250000_s
 #EXTINF:-1 group-title="MÜZİK"tvg-logo="https://i.ibb.co/B6N9KsN/powerturk22.png",POWER TV
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/
 
-#EXTINF:-1 group-title="Spor"tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png",BEIN SPORT 1
+#EXTINF:-1 group-title="bein"tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png",BEIN SPORT 1
 http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6781/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein1.png" group-title="Alternatif1", Bein-sports-1
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein1.png" group-title="bein", Bein-sports-1
 #EXTVLCOPT:http-referrer=https://www.xyzsports218.xyz/
 https://alpha.cf-worker-c4d6a2ea181de1b9.workers.dev/live/bein-sports-1/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Beinsports.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-1.png" group-title="🟣BEIN SPORTS",beIN SPORTS 1 [HD]
+#EXTINF:-1 tvg-id="Beinsports.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-1.png" group-title="bein",beIN SPORTS 1 [HD]
 #EXTVLCOPT:http-origin=https://kisskissplay.cfd
 #EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium62/mono.m3u8
-#EXTINF:-1 tvg-id="Beinsports.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-1.png" group-title="🟣BEIN SPORTS",beIN SPORTS 1 GS ÖZEL
+#EXTINF:-1 tvg-id="Beinsports.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-1.png" group-title="bein",beIN SPORTS 1 GS ÖZEL
 https://tfgds.cfd/cdn/bein_sports_1_hd/main.m3u8
-#EXTINF:-1 tvg-id="Beinsports.2.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-2.png" group-title="🟣BEIN SPORTS",beIN SPORTS 2 [HD]
-#EXTVLCOPT:http-origin=https://kisskissplay.cfd
-#EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium63/mono.m3u8
-#EXTINF:-1 tvg-id="Beinsports.3.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-3.png" group-title="🟣BEIN SPORTS",beIN SPORTS 3 [HD]
-#EXTVLCOPT:http-origin=https://kisskissplay.cfd
-#EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium64/mono.m3u8
-#EXTINF:-1 tvg-id="Beinsports.4.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-4.png" group-title="🟣BEIN SPORTS",beIN SPORTS 4 [HD]
-#EXTVLCOPT:http-origin=https://kisskissplay.cfd
-#EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium67/mono.m3u8
-EXTINF:-1 tvg-name="BeIN SPORTS 5" tvg-id="" tvg-logo="" group-title="🟣BEIN SPORTS",BeIN SPORTS 5 [HD]
-#EXTVLCOPT:http-referrer=https://jestyayin934.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://xxx.mevzuhls26.cfd/yayinb5.m3u8
-#EXTINF:-1 tvg-id="BeinsportsMax.tr" tvg-logo="" group-title="🟣BEIN SPORTS",beIN SPORTS Max 1 [HD]
-https://v.arectv29.sbs/static/bm1.m3u8
-#EXTINF:-1 tvg-id="BeinsportsMax2.tr" tvg-logo="" group-title="🟣BEIN SPORTS",beIN SPORTS Max 2 [HD]
-https://v.arectv29.sbs/static/bm2.m3u8
 
 #EXTINF:-1 tvg-name="BEIN SPORTS 1 [VİP]⚡️" tvg-id="" tvg-logo="" group-title="🟣BEIN SPORTS [VİP]",BeIN SPORTS 1 [VİP]⚡️
 #EXTVLCOPT:http-referrer=https://jestyayin934.com
