@@ -1,9 +1,6 @@
 #EXTM3U
-#EXTINF:-1,DIZI: deneme1
-https://m.youtube.com/watch?v=ddIdOOiv-lY
 
-#EXTINF:-1,DIZI: deneme2
-https://www.youtube.com/embed/UgKxh04Iv9o
+
 
 #EXTINF:-1,DIZI: SAHIPSIZLER
 http://38620.tx8.org:80/movie/FthAli60/17xp5b5t9z/152891.mkv
@@ -126,127 +123,20 @@ https://zekonew.newkso.ru/zeko/premium62/mono.m3u8
 #EXTINF:-1 tvg-id="Beinsports.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-1.png" group-title="bein",beIN SPORTS 1 GS ÖZEL
 https://tfgds.cfd/cdn/bein_sports_1_hd/main.m3u8
 
-#EXTINF:-1 tvg-name="BEIN SPORTS 1 [VİP]⚡️" tvg-id="" tvg-logo="" group-title="🟣BEIN SPORTS [VİP]",BeIN SPORTS 1 [VİP]⚡️
+#EXTINF:-1 tvg-name="BEIN SPORTS 1 [VİP]⚡️" tvg-id="" tvg-logo="" group-title="bein",BeIN SPORTS 1 [VİP]⚡️
 #EXTVLCOPT:http-referrer=https://jestyayin934.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://qqq.mevzuhls29.cfd/yayinzirve.m3u8
-#EXTINF:-1 tvg-name="BEIN SPORTS 1 [İNAT]⚡️" tvg-id="" tvg-logo="" group-title="🟣BEIN SPORTS [VİP]",BeIN SPORTS 1 [İNAT]⚡️
+#EXTINF:-1 tvg-name="BEIN SPORTS 1 [İNAT]⚡️" tvg-id="" tvg-logo="" group-title="bein",BeIN SPORTS 1 [İNAT]⚡️
 #EXTVLCOPT:http-referrer=https://jestyayin934.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://qqq.mevzuhls29.cfd/yayininat.m3u8
-#EXTINF:-1 tvg-name="BeIN SPORTS 2 [VİP]⚡️" tvg-id="" tvg-logo="" group-title="🟣BEIN SPORTS [VİP]",BeIN SPORTS 2 [VİP]⚡️
-#EXTVLCOPT:http-referrer=https://jestyayin934.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://qqq.mevzuhls29.cfd/yayinb2.m3u8
-#EXTINF:-1 tvg-name="BeIN SPORTS 3 [VİP]⚡️" tvg-id="" tvg-logo="" group-title="🟣BEIN SPORTS [VİP]",BeIN SPORTS 3 [VİP]⚡️
-#EXTVLCOPT:http-referrer=https://jestyayin934.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://qqq.mevzuhls29.cfd/yayinb3.m3u8
-#EXTINF:-1 tvg-name="BeIN SPORTS 4 [VİP]⚡️" tvg-id="" tvg-logo="" group-title="🟣BEIN SPORTS [VİP]",BeIN SPORTS 4 [VİP]⚡️
-#EXTVLCOPT:http-referrer=https://jestyayin934.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://qqq.mevzuhls29.cfd/yayinb4.m3u8
-#EXTINF:-1 tvg-name="BeIN SPORTS 5 [VİP]⚡️" tvg-id="" tvg-logo="" group-title="🟣BEIN SPORTS [VİP]",BeIN SPORTS 5 [VİP]⚡️
-#EXTVLCOPT:http-referrer=https://jestyayin934.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://qqq.mevzuhls29.cfd/yayinb5.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="۩๑๑۩๑๑۩  TURKISH SPORT  ۩๑๑۩๑๑۩" tvg-logo="" group-title="TURKISH",۩๑๑۩๑๑۩  TURKISH SPORT  ۩๑๑۩๑๑۩
-http://iptv.maxlacress.com:2082/live/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/3115.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPORT 1 HD" tvg-logo="" group-title="TURKISH",TR: TRT SPORT 1 HD
-http://iptv.maxlacress.com:2082/live/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/190523.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPORT 2 HD" tvg-logo="" group-title="TURKISH",TR: TRT SPORT 2 HD
-http://iptv.maxlacress.com:2082/live/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/190524.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 1 HD" tvg-logo="" group-title="TURKISH",TR: BEIN SPORTS 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 1 HD" tvg-logo="" group-title="bein",TR: BEIN SPORTS 1 HD
 http://iptv.maxlacress.com:2082/live/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/140431.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 2 HD" tvg-logo="" group-title="TURKISH",TR: BEIN SPORTS 2 HD
-http://iptv.maxlacress.com:2082/live/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139939.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 3 HD" tvg-logo="" group-title="TURKISH",TR: BEIN SPORTS 3 HD
-http://iptv.maxlacress.com:2082/live/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139942.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 4 HD" tvg-logo="" group-title="TURKISH",TR: BEIN SPORTS 4 HD
-http://iptv.maxlacress.com:2082/live/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139940.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 4 HD" tvg-logo="" group-title="TURKISH",TR: BEIN SPORTS 4 HD
-http://iptv.maxlacress.com:2082/live/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/140435.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN MAX SPORTS 1 HD " tvg-logo="" group-title="TURKISH",TR: BEIN MAX SPORTS 1 HD 
-http://iptv.maxlacress.com:2082/live/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139943.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: SPORTS HABER HD LOCAL" tvg-logo="" group-title="TURKISH",TR: SPORTS HABER HD LOCAL
-http://iptv.maxlacress.com:2082/live/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139966.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: A SPOR HD LOCAL" tvg-logo="" group-title="TURKISH",TR: A SPOR HD LOCAL
-http://iptv.maxlacress.com:2082/live/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139967.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: SPORSMART LOCAL" tvg-logo="" group-title="TURKISH",TR: SPORSMART LOCAL
-http://iptv.maxlacress.com:2082/live/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139969.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: TABII SPORT HD" tvg-logo="" group-title="TURKISH",TR: TABII SPORT HD
-http://iptv.maxlacress.com:2082/live/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/190514.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: TABII SPORT 1 HD" tvg-logo="" group-title="TURKISH",TR: TABII SPORT 1 HD
-http://iptv.maxlacress.com:2082/live/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/190515.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: TABII SPORT 2 HD" tvg-logo="" group-title="TURKISH",TR: TABII SPORT 2 HD
-http://iptv.maxlacress.com:2082/live/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/190516.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: TABII SPORT 3 HD" tvg-logo="" group-title="TURKISH",TR: TABII SPORT 3 HD
-http://iptv.maxlacress.com:2082/live/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/190517.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: TABII SPORT 4 HD" tvg-logo="" group-title="TURKISH",TR: TABII SPORT 4 HD
-http://iptv.maxlacress.com:2082/live/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/190518.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: TABII SPORT 5 HD" tvg-logo="" group-title="TURKISH",TR: TABII SPORT 5 HD
-http://iptv.maxlacress.com:2082/live/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/190519.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: TABII SPORT 6 HD" tvg-logo="" group-title="TURKISH",TR: TABII SPORT 6 HD
-http://iptv.maxlacress.com:2082/live/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/190520.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: Exxen SPOR 1" tvg-logo="" group-title="TURKISH",TR: Exxen SPOR 1
-http://iptv.maxlacress.com:2082/live/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/145013.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: Exxen Spor 1 HD" tvg-logo="" group-title="TURKISH",TR: Exxen Spor 1 HD
-http://iptv.maxlacress.com:2082/live/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/145014.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: Exxen SPOR 2" tvg-logo="" group-title="TURKISH",TR: Exxen SPOR 2
-http://iptv.maxlacress.com:2082/live/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/145015.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: Exxen SPOR 3 HD" tvg-logo="" group-title="TURKISH",TR: Exxen SPOR 3 HD
-http://iptv.maxlacress.com:2082/live/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/145017.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: Exxen Sport 2 HD" tvg-logo="" group-title="TURKISH",TR: Exxen Sport 2 HD
-http://iptv.maxlacress.com:2082/live/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/145016.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: Exxen Sport 4 HD" tvg-logo="" group-title="TURKISH",TR: Exxen Sport 4 HD
-http://iptv.maxlacress.com:2082/live/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/145018.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: Exxen SPORT 5 HD" tvg-logo="" group-title="TURKISH",TR: Exxen SPORT 5 HD
-http://iptv.maxlacress.com:2082/live/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/145019.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: S SPORT 2" tvg-logo="" group-title="TURKISH",TR: S SPORT 2
-http://iptv.maxlacress.com:2082/live/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/140462.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: spor" tvg-logo="" group-title="TURKISH",TR: spor
-http://iptv.maxlacress.com:2082/live/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139970.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: EUROSPORT LOCAL" tvg-logo="" group-title="TURKISH",TR: EUROSPORT LOCAL
-http://iptv.maxlacress.com:2082/live/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139971.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="۩๑๑۩๑๑۩  TURKISH MOVIES  ۩๑๑۩๑๑۩" tvg-logo="" group-title="TURKISH",۩๑๑۩๑๑۩  TURKISH MOVIES  ۩๑๑۩๑๑۩
-http://iptv.maxlacress.com:2082/live/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/3118.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: MOVIESMART TURK FHD" tvg-logo="" group-title="TURKISH",TR: MOVIESMART TURK FHD
-http://iptv.maxlacress.com:2082/live/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139906.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: DiziSmart PREMIUM FHD" tvg-logo="" group-title="TURKISH",TR: DiziSmart PREMIUM FHD
-http://iptv.maxlacress.com:2082/live/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139908.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema Aile 2 HD" tvg-logo="" group-title="TURKISH",TR: Sinema Aile 2 HD
-http://iptv.maxlacress.com:2082/live/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139909.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema Komedi 2 HD" tvg-logo="" group-title="TURKISH",TR: Sinema Komedi 2 HD
-http://iptv.maxlacress.com:2082/live/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139910.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema 1002 HD" tvg-logo="" group-title="TURKISH",TR: Sinema 1002 HD
-http://iptv.maxlacress.com:2082/live/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139911.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema 2 HD" tvg-logo="" group-title="TURKISH",TR: Sinema 2 HD
-http://iptv.maxlacress.com:2082/live/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139912.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema Aksiyon HD" tvg-logo="" group-title="TURKISH",TR: Sinema Aksiyon HD
-http://iptv.maxlacress.com:2082/live/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139913.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema 1001 HD" tvg-logo="" group-title="TURKISH",TR: Sinema 1001 HD
-http://iptv.maxlacress.com:2082/live/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139914.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema Aksiyon 2 HD" tvg-logo="" group-title="TURKISH",TR: Sinema Aksiyon 2 HD
-http://iptv.maxlacress.com:2082/live/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139915.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema Aile HD" tvg-logo="" group-title="TURKISH",TR: Sinema Aile HD
-http://iptv.maxlacress.com:2082/live/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139916.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: SINEMA TV Aile 2" tvg-logo="" group-title="TURKISH",TR: SINEMA TV Aile 2
-http://iptv.maxlacress.com:2082/live/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139917.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema Komedi HD" tvg-logo="" group-title="TURKISH",TR: Sinema Komedi HD
-http://iptv.maxlacress.com:2082/live/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139918.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN MOVIES PREMIER" tvg-logo="" group-title="TURKISH",TR: BEIN MOVIES PREMIER
-http://iptv.maxlacress.com:2082/live/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/140005.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN MOVIES STARS" tvg-logo="" group-title="TURKISH",TR: BEIN MOVIES STARS
-http://iptv.maxlacress.com:2082/live/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/140006.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN MOVIES ACTION" tvg-logo="" group-title="TURKISH",TR: BEIN MOVIES ACTION
-http://iptv.maxlacress.com:2082/live/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/140007.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN MOVIES FAMILY" tvg-logo="" group-title="TURKISH",TR: BEIN MOVIES FAMILY
-http://iptv.maxlacress.com:2082/live/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/140009.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SERIES COMEDY" tvg-logo="" group-title="TURKISH",TR: BEIN SERIES COMEDY
-http://iptv.maxlacress.com:2082/live/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/140011.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN MOVIES TURK" tvg-logo="" group-title="TURKISH",TR: BEIN MOVIES TURK
-http://iptv.maxlacress.com:2082/live/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/140013.m3u8
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="TR: FOX TV HD LOCAL" tvg-logo="" group-title="TURKISH",TR: FOX TV HD LOCAL
 http://iptv.maxlacress.com:2082/live/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139950.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="۩๑๑۩๑๑۩ TR DOCUMENTARY  ۩๑๑۩๑๑۩" tvg-logo="" group-title="TURKISH",۩๑๑۩๑๑۩ TR DOCUMENTARY  ۩๑๑۩๑๑۩
@@ -305,68 +195,7 @@ http://iptv.maxlacress.com:2082/live/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139932.m3u8
 http://iptv.maxlacress.com:2082/live/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139933.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: A Spor HD" tvg-logo="" group-title="TURKISH",TR: A Spor HD
 http://iptv.maxlacress.com:2082/live/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139934.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: ATV HD" tvg-logo="" group-title="TURKISH",TR: ATV HD
-http://iptv.maxlacress.com:2082/live/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139935.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: A2 HD" tvg-logo="" group-title="TURKISH",TR: A2 HD
-http://iptv.maxlacress.com:2082/live/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139936.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: A HABER HD" tvg-logo="" group-title="TURKISH",TR: A HABER HD
-http://iptv.maxlacress.com:2082/live/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139937.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: 360tv HD" tvg-logo="" group-title="TURKISH",TR: 360tv HD
-http://iptv.maxlacress.com:2082/live/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139938.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 1 HD  LOCAL" tvg-logo="" group-title="TURKISH",TR: TRT 1 HD  LOCAL
-http://iptv.maxlacress.com:2082/live/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139945.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: STAR TV HD  LOCAL" tvg-logo="" group-title="TURKISH",TR: STAR TV HD  LOCAL
-http://iptv.maxlacress.com:2082/live/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139946.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: ATV HD LOCAL" tvg-logo="" group-title="TURKISH",TR: ATV HD LOCAL
-http://iptv.maxlacress.com:2082/live/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139947.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL D HD LOCAL" tvg-logo="" group-title="TURKISH",TR: KANAL D HD LOCAL
-http://iptv.maxlacress.com:2082/live/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139948.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: SHOW TV HD LOCAL" tvg-logo="" group-title="TURKISH",TR: SHOW TV HD LOCAL
-http://iptv.maxlacress.com:2082/live/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139949.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: TV 8 HD LOCAL" tvg-logo="" group-title="TURKISH",TR: TV 8 HD LOCAL
-http://iptv.maxlacress.com:2082/live/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139951.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: TV 8.5 HD LOCAL" tvg-logo="" group-title="TURKISH",TR: TV 8.5 HD LOCAL
-http://iptv.maxlacress.com:2082/live/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139952.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: TEVE 2 HD LOCAL" tvg-logo="" group-title="TURKISH",TR: TEVE 2 HD LOCAL
-http://iptv.maxlacress.com:2082/live/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139953.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: A2 HD LOCAL" tvg-logo="" group-title="TURKISH",TR: A2 HD LOCAL
-http://iptv.maxlacress.com:2082/live/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139954.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEYAZ TV HD LOCAL" tvg-logo="" group-title="TURKISH",TR: BEYAZ TV HD LOCAL
-http://iptv.maxlacress.com:2082/live/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139955.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 7 HD LOCAL" tvg-logo="" group-title="TURKISH",TR: KANAL 7 HD LOCAL
-http://iptv.maxlacress.com:2082/live/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139956.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 7 EU LOCAL" tvg-logo="" group-title="TURKISH",TR: KANAL 7 EU LOCAL
-http://iptv.maxlacress.com:2082/live/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139957.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: 360 TV HD LOCAL" tvg-logo="" group-title="TURKISH",TR: 360 TV HD LOCAL
-http://iptv.maxlacress.com:2082/live/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139958.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: TV 100 HD LOCAL" tvg-logo="" group-title="TURKISH",TR: TV 100 HD LOCAL
-http://iptv.maxlacress.com:2082/live/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139959.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: TV 4 HD LOCAL" tvg-logo="" group-title="TURKISH",TR: TV 4 HD LOCAL
-http://iptv.maxlacress.com:2082/live/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139960.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: ATV EURO LOCAL" tvg-logo="" group-title="TURKISH",TR: ATV EURO LOCAL
-http://iptv.maxlacress.com:2082/live/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139961.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: EURO STAR LOCAL" tvg-logo="" group-title="TURKISH",TR: EURO STAR LOCAL
-http://iptv.maxlacress.com:2082/live/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139962.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: SHOW TURK LOCAL" tvg-logo="" group-title="TURKISH",TR: SHOW TURK LOCAL
-http://iptv.maxlacress.com:2082/live/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139963.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: EURO D LOCAL" tvg-logo="" group-title="TURKISH",TR: EURO D LOCAL
-http://iptv.maxlacress.com:2082/live/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139964.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: TV8 INT LOCAL" tvg-logo="" group-title="TURKISH",TR: TV8 INT LOCAL
-http://iptv.maxlacress.com:2082/live/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139965.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: A HABER HD LOCAL" tvg-logo="" group-title="TURKISH",TR: A HABER HD LOCAL
-http://iptv.maxlacress.com:2082/live/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139973.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: NTV HD LOCAL" tvg-logo="" group-title="TURKISH",TR: NTV HD LOCAL
-http://iptv.maxlacress.com:2082/live/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139975.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: HABER TURK HD LOCAL" tvg-logo="" group-title="TURKISH",TR: HABER TURK HD LOCAL
-http://iptv.maxlacress.com:2082/live/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139976.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: CNN TURK HD LOCAL" tvg-logo="" group-title="TURKISH",TR: CNN TURK HD LOCAL
-http://iptv.maxlacress.com:2082/live/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139977.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: TGRT HABER HD LOCAL" tvg-logo="" group-title="TURKISH",TR: TGRT HABER HD LOCAL
-http://iptv.maxlacress.com:2082/live/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139978.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: TGRT HABER LOCAL" tvg-logo="" group-title="TURKISH",TR: TGRT HABER LOCAL
-http://iptv.maxlacress.com:2082/live/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139979.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: ULKE TV HD LOCAL" tvg-logo="" group-title="TURKISH",TR: ULKE TV HD LOCAL
-http://iptv.maxlacress.com:2082/live/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139980.m3u8
+#EXTINF:-1 tvg-id="" tüS5mF3wDS/139980.m3u8
 
 #EXTINF:-1,ZEKİ VE METİN 1
 http://turkboxtitan.com:8080/ylmz456/6362636/583305
