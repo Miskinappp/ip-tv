@@ -122,7 +122,8 @@ http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6781/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.xyzsports218.xyz/
 https://alpha.cf-worker-c4d6a2ea181de1b9.workers.dev/live/bein-sports-1/playlist.m3u8
 
-
+#EXTINF:-1 group-title="bein",beIN SPORTS 1 HD (bin kişilik)
+http://kasdkhakfbv.xyz:8080/c7B8fgeKJt982/ezeSyCtJSxFX/102284
 
 #EXTINF:-1 tvg-id="Beinsports.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-1.png" group-title="bein",beIN SPORTS 1 [HD]
 #EXTVLCOPT:http-origin=https://kisskissplay.cfd
