@@ -102,7 +102,8 @@ https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b5250000_s
 #EXTINF:-1 group-title="MÜZİK"tvg-logo="https://i.ibb.co/B6N9KsN/powerturk22.png",POWER TV
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/
 
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.hizliresim.com/86r4b6t.png" group-title="bein",beIN Sports 1 gknnowtv
+https://gknnowtv.onrender.com/bein1.m3u8 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.hizliresim.com/86r4b6t.png" group-title="bein",beIN Sports 1 Netspor
 https://aged-fire-dd6b.freelinks.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-1.m3u8
 
