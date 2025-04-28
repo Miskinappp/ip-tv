@@ -7,7 +7,17 @@ http://51.20.137.71/yt/yt.m3u8?kanal=@GulsahFilmOfficial
 http://51.20.137.71/yt/yt.m3u8?kanal=@KemalSunalFilmleriveSahneleri
 
 
+
+#EXTINF:-1 group-title="yeşilçam",Zeki ve Metin 1
+http://51.20.137.71/yt/yt.m3u8?kanal=@TurkFilmleri-TV
+
+
+
+
 #EXTINF:-1 group-title="yeşilçam",Yeşilçam 1
+http://51.20.137.71/yt/yt.m3u8?kanal=@TurkAksiyonFilmleri
+
+#EXTINF:-1 group-title="yeşilçam",Yeşilçam 2
 http://51.20.137.71/yt/yt.m3u8?kanal=@arzufilm1964
 
 
