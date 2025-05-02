@@ -31,7 +31,10 @@ http://mstrxtv20.xyz:8080/movie/c7B8fgeKJt982/ezeSyCtJSxFX3/43849.mkv
 #EXTINF:-1,Kral Kaybederse - Son Bolum 
 http://mstrxtv20.xyz:8080/movie/c7B8fgeKJt982/ezeSyCtJSxFX3/103354.mkv
 
-
+#EXTINF:-1 tvg-logo="" group-title="[🇹🇷]Sinema",MOVİESMART TÜRK
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://tv1.arectv30.sbs/live/mvturk.m3u8
 #EXTINF:-1 group-title="ULUSAL"tvg-logo="https://i.ibb.co/d6c87Km/trt122.png",TRT 1
 http://89.187.191.41/TRT-1-HD-TR/video.m3u8
 #EXTINF:-1 group-title="ULUSAL"tvg-logo="https://i.ibb.co/n1SCYqN/atv.png",ATV
