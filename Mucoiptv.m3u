@@ -109,8 +109,6 @@ https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 #EXTINF:-1 group-title="BELGESEL"tvg-logo="https://i.ibb.co/Z1vHy41/tlc.png",TLC
 https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
-#EXTINF:-1 group-title="BELGESEL"tvg-logo="https://i.ibb.co/N1h8m96/trtbelgesel.png",TGRT BELGESEL
-http://51.20.137.71/yt/yt.m3u8?kanal=@tgrtbelgeseltv
 
 
 #EXTINF:-1 group-title="MÜZİK"tvg-logo="https://i.ibb.co/6401NQw/kraltv.png",KRAL POP
