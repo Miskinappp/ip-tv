@@ -109,8 +109,7 @@ http://dygvideo.dygdigital.com/live/hls/kralpop
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
 #EXTINF:-1 group-title="MÜZİK"tvg-logo="https://i.ibb.co/d6Zfm2P/trtmuzik21c.png",TRT MUZIK
 https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 group-title="MÜZİK"tvg-logo="https://i.ibb.co/B6N9KsN/powerturk22.png",POWER TV
-https://livetv.powerapp.com.tr/powerTV/powerhd.smil/
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.hizliresim.com/86r4b6t.png" group-title="bein",beIN Sports 1 gknnowtv
 https://gknnowtv.onrender.com/bein1.m3u8 
