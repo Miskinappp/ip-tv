@@ -161,21 +161,25 @@ https://qqq.mevzuhls29.cfd/yayinzirve.m3u8
 https://qqq.mevzuhls29.cfd/yayininat.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Ibrahim Tatlıses TV" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/salonLogo.png" group-title="TR/ YESILCAM LOCA",|TR| Ibrahim Tatlıses TV
+http://poykuz.xyz:8080/06bhf13/06bhf13/6318
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Zeki Metin TV" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/salonLogo.png" group-title="TR/ YESILCAM LOCA",|TR| Zeki Metin TV
+http://poykuz.xyz:8080/06bhf13/06bhf13/6320
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Kemal Sunal TV 1" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/salonLogo.png" group-title="TR/ YESILCAM LOCA",|TR| Kemal Sunal TV 1
+http://poykuz.xyz:8080/06bhf13/06bhf13/6325
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Kemal Sunal TV 2" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/salonLogo.png" group-title="TR/ YESILCAM LOCA",|TR| Kemal Sunal TV 2
+http://poykuz.xyz:8080/06bhf13/06bhf13/101136
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Şener Şen TV" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/salonLogo.png" group-title="TR/ YESILCAM LOCA",|TR| Şener Şen TV
+http://poykuz.xyz:8080/06bhf13/06bhf13/23578
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Cüneyt Arkın TV" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/salonLogo.png" group-title="TR/ YESILCAM LOCA",|TR| Cüneyt Arkın TV
+http://poykuz.xyz:8080/06bhf13/06bhf13/23579
 
-#EXTINF:-1,Blu play 1
-https://play1.blutv.com/blutv_play1/smil:blutv_play1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Filiz Akın TV" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/salonLogo.png" group-title="TR/ YESILCAM LOCA",|TR| Filiz Akın TV
+http://poykuz.xyz:8080/06bhf13/06bhf13/48292
 
-#EXTINF:-1,Blu play 2
-https://play2.blutv.com/blutv_play2/smil:blutv_play2.smil/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Dizi 7/24",TV 7
-https://a8.radyotelekom.com.tr:3620/hybrid/play.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Dizi 7/24",Dizi Tv
-https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
-? # #EXTVLCOPT:network-caching=1000
-http://stream.tvcdn.net/eglence/dizi-film-tv.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Dizi 7/24",Tabi Tv
-https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8?sid=aePzYBwko0uFy0f8miUVmA
-#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Dizi 7/24",BLU 1
-https://play1.blutv.com/blutv_play1/smil:blutv_play1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Tarık Akan TV" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/salonLogo.png" group-title="TR/ YESILCAM LOCA",|TR| Tarık Akan TV
+http://poykuz.xyz:8080/06bhf13/06bhf13/48295
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Türkan Şoray TV" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/salonLogo.png" group-title="TR/ YESILCAM LOCA",|TR| Türkan Şoray TV
+http://poykuz.xyz:8080/06bhf13/06bhf13/48296
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Orhan Gencebay TV" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/salonLogo.png" group-title="TR/ YESILCAM LOCA",|TR| Orhan Gencebay TV
+http://poykuz.xyz:8080/06bhf13/06bhf13/48297
