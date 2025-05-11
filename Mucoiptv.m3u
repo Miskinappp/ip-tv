@@ -55,7 +55,7 @@ http://116.202.238.88/FOXTV_TR/index.m3u8
 https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
 
 #EXTINF:-1 group-title="ULUSAL"tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg",a2
-https://canlitvulusal.xyz/live/a2tv/index.m3u8
+https://trkvz-live.daioncdn.net/a2tv/a2tv_480p.m3u8
 
 #EXTINF:-1 group-title="ÇOCUK"tvg-logo="https://i.ibb.co/qDF8pHQ/tdcc.png",TRT Çocuk
 http://116.202.238.88/TRTCOCUK_TR/index.m3u8
