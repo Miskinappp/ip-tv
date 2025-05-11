@@ -106,59 +106,6 @@ https://603c568fccdf5.streamlock.net/live2/dhaweb2/playlist.m3u8
 #EXTINF:-1 group-title="HABER"tvg-logo="https://i.ibb.co/jLd8Fcb/aa.png",AA (feed)
 http://mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="TRT BELGESEL" tvg-id="TRT Belgesel.tr" tvg-logo="https://i.ibb.co/MkvY46q/trt-belgesel.png" group-title="[🇹🇷]Belgesel",TRT BELGESEL
-https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
-
-#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="TLC" tvg-id="TLC.tr" tvg-logo="https://i.ibb.co/Cm1nYZK/tlc.png" group-title="[🇹🇷]Belgesel",TLC
-https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
-
-#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="DMAX" tvg-id="Dmax.tr" tvg-logo="https://i.ibb.co/1LH22gK/dmax.png" group-title="[🇹🇷]Belgesel",DMAX
-https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
-
-#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="DOCU SCREEN" tvg-id="" tvg-logo="" group-title="[🇹🇷]Belgesel",DOCU SCREEN
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://tv1.arectv30.sbs/live/docubox.m3u8
-
-#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="YABAN TV" tvg-id="" tvg-logo="" group-title="[🇹🇷]Belgesel",YABAN TV
-https://yayin1.canlitv.fun/canlitv/yabantv.stream/chunklist_w359564918.m3u8?hash=d71b9a4d0ef817355b3ef4bb26064976
-
-#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="TARİH TV" tvg-id="" tvg-logo="TarihTV.tr" group-title="[🇹🇷]Belgesel",TARİH TV
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://tv1.arectv30.sbs/live/tarihtv.m3u8
-
-#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-id="32" tvg-name="HİSTORY TV" tvg-logo="HistoryTV.tr" group-title="[🇹🇷]Belgesel",HİSTORY TV
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://tv1.arectv30.sbs/live/history.m3u8
-
-#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="National Geoghrapic" tvg-id="NationalGeographic.tr" tvg-logo="" group-title="[🇹🇷]Belgesel",NATİONAL GEOGHRAPİC
-https://saran-live.ercdn.net/natgeohd/index.m3u8
-
-#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="National Geoghrapic Wild" tvg-id="NationalGeographicWild.tr" tvg-logo="" group-title="[🇹🇷]Belgesel",NATİONAL GEOGHRAPİC WİLD
-https://saran-live.ercdn.net/natgeowild/index.m3u8
-
-#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="BBC EARTH" tvg-id="" tvg-logo="" group-title="[🇹🇷]Belgesel",BBC EARTH
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://tv1.arectv30.sbs/live/bbc.m3u8
-
-#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-id="79" tvg-name="DISCOVERY CHANNEL" tvg-logo="" group-title="[🇹🇷]Belgesel",DISCOVERY CHANNEL
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://tv1.arectv30.sbs/live/discovery.m3u8
-
-#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-id="78" tvg-name="DISCOVERY ID" tvg-logo="" group-title="[🇹🇷]Belgesel",DISCOVERY ID
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://tv1.arectv30.sbs/live/discs.m3u8
-
-#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-id="32" tvg-name="LOVE NATURE" tvg-logo="" group-title="[🇹🇷]Belgesel",LOVE NATURE
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://tv1.arectv30.sbs/live/lovenature.m3u8
-
 
 #EXTINF:-1 group-title="MÜZİK"tvg-logo="https://i.ibb.co/6401NQw/kraltv.png",KRAL POP
 http://dygvideo.dygdigital.com/live/hls/kralpop
