@@ -28,8 +28,6 @@ https://tv1.arectv30.sbs/live/sinema1001.m3u8
 https://tv1.arectv30.sbs/live/sinema1002.m3u8
 
 
-
-
 #EXTINF:-1 group-title="ULUSAL"tvg-logo="https://i.ibb.co/d6c87Km/trt122.png",TRT 1
 http://89.187.191.41/TRT-1-HD-TR/video.m3u8
 #EXTINF:-1 group-title="ULUSAL"tvg-logo="https://i.ibb.co/n1SCYqN/atv.png",ATV
@@ -57,11 +55,6 @@ https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
 #EXTINF:-1 group-title="ULUSAL"tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg",a2
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_480p.m3u8
 
-
-
-
-
-
 #EXTINF:-1 group-title="ÇOCUK"tvg-logo="https://i.ibb.co/qDF8pHQ/tdcc.png",TRT Çocuk
 http://116.202.238.88/TRTCOCUK_TR/index.m3u8
 #EXTINF:-1 group-title="ÇOCUK"tvg-logo="https://i.ibb.co/DM1tZ9Q/diyncc.png",TRT Diyanet Çocuk
@@ -72,7 +65,6 @@ https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live.m3u8
 https://tgn.bozztv.com/dvrfl05/gin-minikago/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ÇOCUK"tvg-logo="https://i.ibb.co/L8ftBdN/minikacocuk.png",Minika Çocuk
 https://tgn.bozztv.com/dvrfl05/gin-minikacocuk/tracks-v1a1/mono.m3u8
-
 
 #EXTINF:-1 group-title="HABER"tvg-logo="https://i.ibb.co/1X8nWHc/ahaber.png",A HABER
 https://canlitvulusal.xyz/live/ahaber/index.m3u8
@@ -110,7 +102,6 @@ https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
 https://603c568fccdf5.streamlock.net/live2/dhaweb2/playlist.m3u8
 #EXTINF:-1 group-title="HABER"tvg-logo="https://i.ibb.co/jLd8Fcb/aa.png",AA (feed)
 http://mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.smil/playlist.m3u8
-
 
 #EXTINF:-1 group-title="MÜZİK"tvg-logo="https://i.ibb.co/6401NQw/kraltv.png",KRAL POP
 http://dygvideo.dygdigital.com/live/hls/kralpop
